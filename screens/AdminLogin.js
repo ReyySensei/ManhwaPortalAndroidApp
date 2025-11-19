@@ -30,7 +30,7 @@ export default function AdminLogin({ navigation, setRole }) {
 
     return (
         <ImageBackground
-            source={require("../assets/bg.png")}
+            source={require("../assets/background.png")}
             style={styles.bg}
             resizeMode="cover"
         >

@@ -16,7 +16,7 @@ export default function ManhwaDetail({ item, onBack, role, onEdit, onDelete, onO
     return (
         <SafeAreaView style={styles.safeArea}>
             <ImageBackground
-                source={require("../assets/bg.png")}
+                source={require("../assets/background.png")}
                 style={styles.background}
                 resizeMode="cover"
             >

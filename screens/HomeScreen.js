@@ -12,7 +12,7 @@ export default function HomeScreen({ navigation, setRole }) {
         <SafeAreaView style={styles.safeArea}>
             <View style={styles.container}>
                 <ImageBackground
-                    source={require("../assets/bg.png")}
+                    source={require("../assets/background.png")}
                     style={styles.bg}
                     resizeMode="cover"
                 >
